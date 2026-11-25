@@ -119,9 +119,11 @@ OK
 
 Фактический вывод истории:
 ```text
-*   d558ae9 (HEAD -> main) merge: integrate tested fix
+* bd79526 (HEAD -> main) docs: record final git history
+* 04b6d20 (fix/tested-bug) docs: add test and git evidence
+*   d558ae9 merge: integrate tested fix
 |\  
-| * 0e482f2 (fix/tested-bug) Revert "chore: add revert demo"
+| * 0e482f2 Revert "chore: add revert demo"
 | * 81e54fb chore: add revert demo
 | * 1940d45 fix: handle age 18 boundary
 |/  
