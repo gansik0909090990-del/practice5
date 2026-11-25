@@ -119,7 +119,11 @@ OK
 
 Фактический вывод истории:
 ```text
-* bd79526 (HEAD -> main) docs: record final git history
+* 457cb3a (HEAD -> main) docs: update final verification output
+* 19e9bbe docs: add simple GitHub publishing instructions
+* 21ae8a7 docs: save final repository verification
+* 7c16b02 docs: finalize practical report
+* bd79526 docs: record final git history
 * 04b6d20 (fix/tested-bug) docs: add test and git evidence
 *   d558ae9 merge: integrate tested fix
 |\  
