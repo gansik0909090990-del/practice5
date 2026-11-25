@@ -1,0 +1,8 @@
+$ git log --oneline --decorate --graph --all -10
+*   d558ae9 (HEAD -> main) merge: integrate tested fix
+|\  
+| * 0e482f2 (fix/tested-bug) Revert "chore: add revert demo"
+| * 81e54fb chore: add revert demo
+| * 1940d45 fix: handle age 18 boundary
+|/  
+* 9774692 test: cover core behavior
