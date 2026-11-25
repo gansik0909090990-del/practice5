@@ -78,3 +78,5 @@ git log --oneline --decorate --graph --all
 ```
 
 В GitHub должны быть доступны исходники, отчёт и история коммитов.
+
+Temporary revert demonstration.
