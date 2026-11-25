@@ -1,5 +1,7 @@
-$ git log --oneline --decorate --graph --all -10
-* 04b6d20 (HEAD -> main, fix/tested-bug) docs: add test and git evidence
+$ git log --oneline --decorate --graph --all -12
+* 7c16b02 (HEAD -> main) docs: finalize practical report
+* bd79526 docs: record final git history
+* 04b6d20 (fix/tested-bug) docs: add test and git evidence
 *   d558ae9 merge: integrate tested fix
 |\  
 | * 0e482f2 Revert "chore: add revert demo"
